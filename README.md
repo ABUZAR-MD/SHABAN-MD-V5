@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+MR SHABAN;RELEASED+24-12-2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+MR ABUZAR;RELEASED+24-12-2024" alt="Typing SVG" /></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
 <a><img src='https://i.ibb.co/LDrLsJdV/shaban-md.gif'/></a>
@@ -54,7 +54,7 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
  
-[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O) 
+[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)]([https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O](https://whatsapp.com/channel/0029VawH7muGpLHWRj7SoR3E)) 
 [![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=008080&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRSHABAN40)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
